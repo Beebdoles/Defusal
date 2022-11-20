@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KXlEVcHfV+JFGnUvOMOdT3m3I80Q2WXuXDTTiNsOtX4e55oPiiII32IhMdq+60FgeJui4ML03EComGhW61DWUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Beebd\\source\\repos\\Defusal\\Defusal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Beebd\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.8\\microsoft.netcore.app.runtime.win-x86.6.0.8.nupkg.sha512",
+    "C:\\Users\\Beebd\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.8\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.8.nupkg.sha512",
+    "C:\\Users\\Beebd\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.8\\microsoft.aspnetcore.app.runtime.win-x86.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
