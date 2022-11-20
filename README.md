@@ -1,4 +1,4 @@
-Actual Defusal.exe file can be found in "bin/Release/net6.0-windows/publish/win-x86/Defusal.exe
+Actual Defusal.exe file can be found in "bin/Release/net6.0-windows/publish/win-x86/Defusal.exe"
 
 ![bomb png](https://user-images.githubusercontent.com/104022514/202929522-c98ccd0f-d1c8-4500-bc2a-4ac071a8503c.png)
 
